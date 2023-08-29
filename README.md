@@ -1,2 +1,2 @@
 # Job-Portal
-Skill :- JSP, Servlet, Java, JDBC, MySQL In this project, the admin module can post and modify the job vacancy, the user module can view that job and the user can update their profile if They want to change after registration.
+In this project scenario, the admin module allows administrators to post and modify job vacancies. The user module allows regular users to view job vacancies and update their profiles. This entails using JSP for creating user interfaces, servlets to handle requests and business logic, Java for programming logic, JDBC for database interactions, and MySQL for data storage. This combination of technologies enables the creation of a dynamic web application where administrators and users can interact with the system in various ways.
